@@ -1,7 +1,7 @@
 import Box from "@/assets/icons/Box";
 import { Delete, Update, Flex, Paragraph } from "@/components";
 import { TableRow, TableCell } from "@/components/ui/table";
-import { TProduct } from "@/lib/typings/Typings";
+import { Product as TProduct } from "@/lib/typings/Typings";
 import dayjs from "dayjs";
 import LocalizedFormat from "dayjs/plugin/localizedFormat";
 

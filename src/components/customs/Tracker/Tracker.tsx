@@ -1,7 +1,7 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { Subheading, Grid, Heading, Card } from "@/components";
 import { containerLang } from "@/lib/lang/containerLang";
-import { Sales, TProduct } from "@/lib/typings/Typings";
+import { Sales, Product as TProduct } from "@/lib/typings/Typings";
 import { useState, useEffect } from "react";
 
 interface Props {
